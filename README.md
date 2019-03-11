@@ -1,3 +1,2 @@
 # "Inventory" using Django Framework
-
-In work
+Work in progress
